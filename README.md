@@ -24,6 +24,6 @@ How to Run -
 
 4) Enter two numbers and select an arithmetic operation.
 
-5)View the result displayed on the screen.
+5) View the result displayed on the screen.
 
 Conclusion - This project demonstrates the use of Python variables, user input, conditional statements, arithmetic operators, and exception handling to create a basic calculator.
